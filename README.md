@@ -95,9 +95,9 @@ b _do_fork
 b dup_task_struct
 b copy_process
 ```
-
+![设置](https://github.com/llc1024/process/blob/master/TIM%E6%88%AA%E5%9B%BE20190325213513.png)
 最终结果
-
+![结果](https://github.com/llc1024/process/blob/master/TIM%E6%88%AA%E5%9B%BE20190325214134.png)
 4、理解编译链接的过程和ELF可执行文件格式
 
 动态链接库(Dynamic Linked Library)：
